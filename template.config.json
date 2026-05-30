@@ -1,0 +1,10 @@
+{
+  "v": 1,
+  "slug": "neon-ai",
+  "category": "startup.ai",
+  "slot_schema_version": 1,
+  "author": {
+    "handle": "kirantikoo"
+  },
+  "license": "MIT"
+}
